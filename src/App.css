@@ -1,0 +1,11 @@
+.container {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.user {
+  width: 200px;
+  height: 200px
+  
+}
